@@ -27,7 +27,7 @@ dependencies:
   flutter_map: any
     #git:
     #  url: https://github.com/johnpryan/flutter_map.git
-  latlong2: ^0.8.1
+  latlong2: ^0.8.0
   flutter_map_dragmarker:
     git:
       url: https://github.com/ibrierley/flutter_map_dragmarker.git         
